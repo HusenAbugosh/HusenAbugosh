@@ -1,8 +1,8 @@
 
-[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif)]
+![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif)
 <h1 align="center">SALAM ✌🏽, I'm Husain Abugosh</h1>
 <h3 align="center">A passionate Backend developer from Palestine and the first MLSA in my country</h3>
-img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif"
+<imgalign="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husenabugosh&label=Profile%20views&color=0e75b6&style=flat" alt="husenabugosh" /> </p>
 
